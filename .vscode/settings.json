@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "fcntl.h": "c",
+        "stdlib.h": "c",
+        "termios.h": "c",
+        "errno.h": "c",
+        "stat.h": "c"
+    }
+}
